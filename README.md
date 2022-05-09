@@ -7,7 +7,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a recipe book in which we can check simple and tasty recipes.
+in this project i have used (https://rapidapi.com/apidojo/api/yummly2) Api to fetch informations.
 
 A few resources to get you started if this is your first Flutter project:
 
